@@ -1,1 +1,1 @@
-✅This is the installer of Alora Bot.
+##✅This is the installer of Alora Bot.
