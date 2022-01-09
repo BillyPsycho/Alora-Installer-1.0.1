@@ -14,9 +14,9 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. English => EN   Sinhala will be added soon",
+            "description": "Bot language. English => EN   Sinhala=> si",
             "required": true,
-            "value": "EN"
+            "value": "si"
         },
         "ANTİ_LİNK": {
             "description": " Link Blocking System.",
