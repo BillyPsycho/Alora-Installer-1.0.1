@@ -5,6 +5,9 @@
 <h3>✅ Installer</h3> <br>
 
 <p><font size="6"><b>Proudly made in sri lanka 🇱🇰🇱🇰 </font></p>
+<hr>
+Tap to scan the qr
+<a href="https://replit.com/@xYAZUWA/Alora-Qr"><img src="https://i.ibb.co/Q948jVW/Scan-a-QR-code-on-android.jpg"></a>
 
 <br><br>
 Tap The below Meme to deploy
