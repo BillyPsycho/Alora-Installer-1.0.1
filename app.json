@@ -16,7 +16,7 @@
         "LANGUAGE": {
             "description": "Bot language. English => EN   Sinhala=> si",
             "required": true,
-            "value": "si"
+            "value": "EN"
         },
         "ANTİ_LİNK": {
             "description": " Link Blocking System.",
