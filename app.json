@@ -18,12 +18,12 @@
             "required": true,
             "value": "EN"
         },
-        "ANTİ_LİNK": {
+        "ANTI_LINK": {
             "description": " Link Blocking System.",
             "required": true,
             "value": "false"
         },
-        "AUTO_BİO": {
+        "AUTO_BIO": {
             "description": " Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
