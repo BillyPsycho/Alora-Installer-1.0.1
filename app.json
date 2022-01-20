@@ -31,7 +31,7 @@
         "HANDLERS": {
             "description": "Prefix For commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "[.!#]"
         },
         "FULL_EVA": {
             "description": "Turn your account into a chatbot!",
