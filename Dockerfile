@@ -2,9 +2,9 @@
 FROM fusuf/whatsasena:latest
 
 
-RUN git clone https://github.com/xRASHMITH/Alora-WhatsApp /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/xRASHMITH/hellobotz /root/hellobotz
 
-WORKDIR /root/WhatsAsenaDuplicated/
+WORKDIR /root/hellobotz/
 
 ENV TZ=Europe/Istanbul
 
