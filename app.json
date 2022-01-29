@@ -15,17 +15,17 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
+            "description": "Bot language.  English => en, Sinhala => si",
             "required": true,
-            "value": "TR"
+            "value": "EN"
         },
         "ANTİ_LİNK": {
-            "description": "Link Engelleme Sistemi. Link Blocking System.",
+            "description": " Link Blocking System.",
             "required": true,
             "value": "false"
         },
         "AUTO_BİO": {
-            "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
+            "description": " Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
         },
