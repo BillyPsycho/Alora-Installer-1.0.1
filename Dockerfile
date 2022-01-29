@@ -2,7 +2,7 @@
 FROM fusuf/whatsasena:latest
 
 
-RUN git clone https://github.com/xRASHMITH/hellobotz /root/hellobotz
+RUN git clone https://github.com/xRASHMITH/hellobotsin /root/hellobotz
 
 WORKDIR /root/hellobotz/
 
