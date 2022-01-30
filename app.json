@@ -1,6 +1,6 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "Alora",
+    "description": "Alora project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
@@ -19,12 +19,12 @@
             "required": true,
             "value": "EN"
         },
-        "ANTİ_LİNK": {
+        "ANTI_LINK": {
             "description": " Link Blocking System.",
             "required": true,
             "value": "false"
         },
-        "AUTO_BİO": {
+        "AUTO_BIO": {
             "description": " Set true for auto date, time in biography.",
             "required": true,
             "value": "false"
