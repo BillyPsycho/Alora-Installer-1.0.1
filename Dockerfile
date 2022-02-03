@@ -2,9 +2,9 @@
 FROM fusuf/whatsasena:latest
 
 
-RUN git clone https://github.com/xRASHMITH/mybotz /root/mybotz
+RUN git clone https://github.com/xRASHMITH/QueenAlora /root/QueenAlora
 
-WORKDIR /root/mybotz/
+WORKDIR /root/QueenAlora/
 
 ENV TZ=Europe/Istanbul
 
