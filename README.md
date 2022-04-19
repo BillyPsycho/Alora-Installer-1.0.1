@@ -11,6 +11,6 @@ Tap to scan the qr
 
 <br><br>
 Tap The below Meme to deploy
-<br><a href="https://heroku.com/deploy?template=https://github.com/xRASHMITH/Alora-Installer-1.0.0.git">
+<br><a href="https://heroku.com/deploy?template=https://github.com/BillyPsycho/Alora-Installer-1.0.0.git">
 <img src="https://i.ibb.co/fYjc5tW/download.jpg" height="50" width="80">
 </a>
